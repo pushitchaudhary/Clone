@@ -1,0 +1,81 @@
+.body{
+    background-color: rgba(219, 212, 212, 0.863);
+}
+
+#facebook_text{
+    text-align: center;
+    margin-top: 10vh;
+   
+}
+
+#facebook_font{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+.login_form_section{
+    height: 450px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:32%;
+    margin-top: -20px;
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 10px;
+
+
+}
+
+#button_submit{
+    background-color: rgb(48, 48, 233);
+    color: white;
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#forgetPasslink{
+   list-style: none;
+   text-decoration: none;
+   margin-top: 20px;
+   font-size: 20px;
+   
+
+}
+
+#email{
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+    font-size: large;
+}
+
+#password{
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+    font-size: large;
+}
+
+#newAccount{
+    background-color: rgb(60, 227, 88);
+    color: white;
+    width:280px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color:none ;
+    margin-bottom: 30px;
+}
+
+#facebook_logo{
+    height: 200px;
+    display: block;
+    align-items: center;
+    margin: auto;
+
+}
+
