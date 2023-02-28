@@ -1,0 +1,245 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #8793abb8;
+
+}
+
+.form {
+    border: 2px solid 888888;
+    height: 570px;
+    width: 450px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px #8888888d;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+#signUp {
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: 5px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#text {
+    margin-left: 15px;
+    font-size: 18px;
+    color: #858585;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#hrline {
+    margin-top: 15px;
+}
+
+
+#firstName {
+    height: 40px;
+    width: 200px;
+    font-size: 15px;
+    margin-left: 17px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 0.7px solid #858585c3;
+    background-color: #f5f6f7;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#mobile_email {
+    height: 40px;
+    width: 90%;
+    font-size: 15px;
+    margin-left: 17px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 0.7px solid #858585c3;
+    background-color: #f5f6f7;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#lastName {
+    height: 40px;
+    width: 188px;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 17px;
+    border-radius: 5px;
+    border: 0.7px solid #858585c3;
+    background-color: #f5f6f7;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#passwords {
+    height: 40px;
+    width: 90%;
+    font-size: 15px;
+    margin-left: 17px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 0.7px solid #858585c3;
+    background-color: #f5f6f7;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+
+#bdy {
+    margin-left: 17px;
+    opacity: 70%;
+    font-size: 13px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+select {
+    border: 0.7px solid #858585d2;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #2a2d30;
+}
+
+#month {
+    width: 120px;
+    margin-left: 17px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#day {
+    width: 120px;
+    margin-left: 20px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#years {
+    width: 115px;
+    margin-left: 20px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#gender {
+    margin-left: 17px;
+    margin-top: 20px;
+    opacity: 70%;
+    margin-bottom: 10px;
+    font-size: 13px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#femaleBox {
+    height: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+    width: 200px;
+    border: 0.7px solid #858585c3;
+    margin-left: 17px;
+    border-radius: 5px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#maleBox {
+    height: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+    margin-top: 20px;
+    width: 200px;
+    border: 0.7px solid #858585cf;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+
+#othersBox {
+    height: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+    margin-top: 20px;
+    border: 0.7px solid #858585c9;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#femalelab {
+    padding: 20px;
+    border-top: 60px;
+    color: #2a2d30;
+
+}
+
+#malelab {
+    width: 200px;
+    color: #2a2d30;
+}
+
+#otherslab {
+    color: #2a2d30;
+}
+
+#female {
+    padding: 20px;
+    font-size: 20px;
+    color: #2a2d30;
+}
+
+#male {
+    width: 70px;
+}
+
+#female {
+    width: 30px;
+}
+
+#others {
+    width: 50px;
+}
+
+#text1 {
+    margin-top: 22px;
+    margin-left: 17px;
+    font-size: 11px;
+    color: #858585;
+    font-family: system-ui, -apple-system, "system-ui", ".SFNSText-Regular", sans-serif;
+}
+
+.link {
+    text-decoration: none;
+    color: #7087b5;
+}
+
+.text2 {
+    margin-top: 10px;
+    margin-left: 17px;
+    margin-right: 20px;
+    font-size: 11px;
+    color: #858585;
+    font-family: system-ui, -apple-system, "system-ui", ".SFNSText-Regular", sans-serif;
+}
+
+#signUp_btn {
+    font-size: 20px;
+    background-color: #00a401;
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    border: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: white;
+    font-weight: 700;
+}
