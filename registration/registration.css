@@ -1,0 +1,163 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #9b59b6;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.form{
+    height: 500px;
+    width: 47%;
+    margin: auto;
+    display: block;
+    align-items: center;
+    margin-top: 100px;
+    border: 1px solid black;
+    box-shadow: 8px 10px 18px #888888;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+#registration{
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 15px;
+    margin-left: 20px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+label{
+    font-size: 20px;
+    
+}
+#left_section{
+    /* border: 2px solid red; */
+    height: auto;
+    width: 45%;
+    display: inline-block;
+    padding-left:20px ;
+    background-color: whitesmoke;
+}
+
+#right_section{
+    /* border: 2px solid blue; */
+    background-color: whitesmoke;
+    height: auto;
+    width: 22%;
+    display: inline-block;
+    padding-left:20px ;
+    position: absolute;
+}
+
+input{
+    background-color: whitesmoke;
+} 
+
+#name_text{
+    margin-top: 20px;
+    background-color: whitesmoke;
+}
+#name{
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    font-size:15px;
+   
+}
+#emailText{
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+
+#email{
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    font-size:15px;
+    background-color: whitesmoke;
+}
+#passwordTxt{
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+#password{
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    font-size:15px;
+    background-color: whitesmoke;
+}
+#Uid{
+    background-color: whitesmoke;
+}
+#user_name{
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    font-size:15px;
+    background-color: whitesmoke;
+}
+
+#phoneNUm{
+    background-color: whitesmoke;
+}
+#phoneNumber{
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    font-size:15px;
+ 
+}
+
+#confirm_passwordTxt{
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+
+#confirm_password{
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    font-size:15px;
+    background-color: whitesmoke;
+}
+
+#genderText{
+    font-size: 25px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    margin-left: 160px;
+}
+
+#male{
+    margin-top: 15px;
+    margin-left: 160px;
+}
+#female{
+    margin-left: 20px;
+}
+
+#Others{
+    margin-left: 20px;
+}
+
+#text{
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+
+#submit{
+    align-items: center;
+    margin-top: 30px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-left: 25%;
+    border-radius: 10px;
+    background-color: rgb(34, 220, 87);
+    color: white;
+    font-size: 20px;
+
+
+
+}
